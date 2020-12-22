@@ -6,6 +6,7 @@ authors = ["farahzuot <farahz997@eng.hu.edu.jo>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+nltk = "^3.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
